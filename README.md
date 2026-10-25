@@ -41,7 +41,7 @@ AI — LLM Agent (학습 중)<br> <img src="https://cdn.jsdelivr.net/gh/devicons
 
 ### 🌱 Currently
 
-- 자연어 질문을 SQL로 바꿔 리포트를 돌려주는 **NL2SQL 에이전트** 만드는 중 (Python)
+- 자연어 질문을 SQL로 바꿔 리포트를 돌려주는 **[NL2SQL 에이전트](https://github.com/dave-lea7/nl2sql-agent)** 만드는 중 (Python)
 
 ### 📫 Contact
 
